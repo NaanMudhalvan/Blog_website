@@ -12,11 +12,24 @@ This project is a scaled-down version of a live blogging platform. The implement
 ## Scope:
 
 The scope of the project is to provide users from any corner of the world with interesting blogs to hook them to our website to enhance their creative skills and acquire information from the website, it is a business in itself which involves an in-depth understanding of a domain and topic, digital marketing, and sales.
+
+## Technologies:
+
+* Hardware requirements:
+   * Laptop/mobile 
+   * Data connection 
+   
+* Software requirements:
+   * HTML
+   * JavaScript
+   * CSS
+   * Database
  
-## Gols:
+## Design Constraints:
 
+1. Up to 100 blogs per account.
 
+2. Length of blog 500-900 characters.
 
-
-
- 
+3. Saving blogs- No Limit.
+  
